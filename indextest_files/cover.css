@@ -27,8 +27,12 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-color: #333;
-   background-image: url("/tokyobridge.jpg");
+  background-color: #000000;
+  background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center; /* Center the image */
+   background-image: url("https://github.com/stcastro13/stcastro13.github.io/blob/master/index_files/tokyobridge.jpg?raw=true");
+  
 }
 
 body {
@@ -98,6 +102,15 @@ body {
   font-weight: 700;
 }
 
+.blackbg {
+  background-color: #002e42
+}
+.blackbgsubject {
+  background-color: #001c29
+}
+.lightertext {
+  background-color: #00405e
+}
 
 /*
  * Footer
