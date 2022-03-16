@@ -31,7 +31,7 @@ body {
   background-repeat: no-repeat;
    background-size: cover;
    background-position: center; /* Center the image */
-   background-image: url("https://github.com/stcastro13/stcastro13.github.io/blob/master/index_files/tokyobridge.jpg?raw=true");
+   background-image: url('../img/tokyobridge.jpg');
   
 }
 
